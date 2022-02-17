@@ -1,0 +1,18 @@
+Welcome, please follow the following steps:
+
+1. Extract all the files, including model.zip to a specific folder
+2. open interface1.py in Spyder or pyCharm or any python software
+3. install imports:
+	pip install opencv-python
+	pip install pyqt5
+4. change line 270 in "interface1.py" to your Test images folder path
+5. change line 307 to your project folder path
+6. run interafce1.py
+
+## 
+# if there is any missing imports from stage 3, please install using pip install "name"
+##
+
+for any questions:
+
+asafdarmon1@gmail.com, Asaf Darmon

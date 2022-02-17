@@ -1,0 +1,39 @@
+{
+  "clients": [
+    {
+      "First_Name": "Asaf",
+	  "Last_Name":  "Darmon",
+	  "Id": "205404080",
+      "Age": "28",
+      "Previous_Diseases": "None"
+    },
+    {
+      "First_Name": "Liran",
+	  "Last_Name":  "Hersh",
+	  "Id": "203955299",
+      "Age": "55",
+      "Previous_Diseases": "None"
+    },
+    {
+      "First_Name": "Noy",
+	  "Last_Name":  "Maman",
+	  "Id": "123456789",
+      "Age": "35",
+      "Previous_Diseases": "Diabetes"
+    },
+    {
+      "First_Name": "Karin",
+	  "Last_Name":  "Azulay",
+	  "Id": "987654321",
+      "Age": "44",
+      "Previous_Diseases": "None"
+    },
+    {
+      "First_Name": "Gal",
+	  "Last_Name": "Sherman",
+	  "Id": "203955333",
+      "Age": "15",
+      "Previous_Diseases": "Kids Asthma"
+    }
+  ]
+}
